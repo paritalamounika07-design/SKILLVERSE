@@ -1,0 +1,60 @@
+💜 SkillVerse – Campus Peer-to-Peer Skill Exchange
+
+Learn One. Teach One. Grow Together.
+
+About the Project
+
+SkillVerse is a campus-based peer-to-peer skill exchange platform that helps college students teach skills they already know and learn new skills from other students using virtual SkillCoins.
+
+Problem Statement
+
+Many college students have valuable skills but lack a common platform to share their knowledge and learn from their peers.
+
+Proposed Solution
+
+SkillVerse connects students who want to teach with students who want to learn through a virtual skill-exchange system.
+
+Core Features
+
+- Explore and search available skills.
+- Browse skill categories.
+- View student mentor profiles.
+- Add and manage teaching and learning skills.
+- Send and manage exchange requests.
+- Virtual SkillCoin wallet.
+- Student dashboard and profile.
+
+Technologies and AI Tools
+
+- Google AI Studio
+- Generative AI
+- Frontend technologies included in the source code
+- Local sample data
+
+Development Process
+
+1. Analysed the problem statement.
+2. Planned the application features and screens using ChatGPT.
+3. Generated the application using Google AI Studio.
+4. Tested navigation and interactions.
+5. Improved the interface and synchronised the source code with GitHub.
+
+Limitations
+
+This version is a frontend prototype using sample data. Real authentication, shared student accounts, messaging and secure transactions require backend integration.
+
+Live Application
+
+"Open SkillVerse" (https://skillverse-peer-to-peer-skill-exchange.ai.studio)
+
+Project Type
+
+AI-powered campus skill-exchange frontend prototype.
+
+Future Enhancements
+
+- Real student authentication.
+- Backend and database integration.
+- Real-time messaging.
+- Session scheduling.
+- Secure SkillCoin transaction management.
