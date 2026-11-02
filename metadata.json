@@ -1,0 +1,6 @@
+{
+  "name": "SkillVerse - Peer-to-Peer Skill Exchange",
+  "description": "Campus-based peer-to-peer skill exchange platform where college students teach what they know and learn new skills using virtual SkillCoins. Native Android Jetpack Compose prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
